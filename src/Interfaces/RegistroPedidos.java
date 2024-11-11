@@ -190,7 +190,7 @@ public class RegistroPedidos extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField1ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
-        Menu v1 = new Menu();
+        Menuacceso v1 = new Menuacceso();
         v1.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_jButton6ActionPerformed
