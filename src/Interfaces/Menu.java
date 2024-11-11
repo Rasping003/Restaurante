@@ -1,10 +1,7 @@
 
 package Interfaces;
 
-/**
- *
- * @author gamaj
- */
+
 public class Menu extends javax.swing.JFrame {
 
     /**
